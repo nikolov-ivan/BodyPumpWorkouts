@@ -6,6 +6,7 @@ import Classes from "../Classes/Classes";
 import Banner from "../Banner/Banner";
 import Gallery from "../Gallery/Gallery";
 import Team from "../Team/Team";
+import SearchModel from "../SearchModel/SearchModel";
 const Home = () => {
   return (
     <div>
@@ -17,6 +18,7 @@ const Home = () => {
       <Banner/>
       <Gallery/>
       <Team/>
+      <SearchModel/>
     </div>
   );
 };
