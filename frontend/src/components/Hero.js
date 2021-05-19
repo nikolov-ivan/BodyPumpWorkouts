@@ -10,11 +10,11 @@ const Hero = () => {
             <div className="row">
               <div className="col-lg-6 offset-lg-6">
                 <div className="hi-text">
-                  <span>Shape your body</span>
+                  <span>Оформи тялото си</span>
                   <h1>
-                    Be <strong>strong</strong> traning hard
+                    Бъди <strong>силен</strong> тренирай здраво
                   </h1>
-                  <Link className="primary-btn">Get info</Link>
+                  <Link className="primary-btn">Повече</Link>
                 </div>
               </div>
             </div>
