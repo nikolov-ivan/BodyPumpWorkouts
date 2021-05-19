@@ -3,6 +3,7 @@ import ChoseUs from "../ChoseUs/ChoseUs";
 import Pricing from "../Pricing/Pricing";
 import GetInTouch from "../GetInTouch/GetInTouch";
 import Classes from "../Classes/Classes";
+import Banner from "../Banner/Banner";
 const Home = () => {
   return (
     <div>
@@ -11,6 +12,7 @@ const Home = () => {
       <Pricing/>
       <GetInTouch/>
       <Classes/>
+      <Banner/>
     </div>
   );
 };
